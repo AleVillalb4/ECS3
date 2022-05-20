@@ -21,4 +21,5 @@
 
 
 echo 'Nombre: '.$_POST['nombre'];
-
+echo '<hr>';
+echo 'Apellido: '.$_POST['apellido'];
