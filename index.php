@@ -21,3 +21,4 @@
 
 
 echo 'Nombre: '.$_POST['nombre'];
+
